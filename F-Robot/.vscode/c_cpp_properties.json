@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/kuukuu/Desktop/F-Robot/src/FControlSystem/include/**",
+        "/home/kuukuu/Desktop/F-Robot/src/FGuidance/include/**",
+        "/home/kuukuu/Desktop/F-Robot/src/FNaviSystem/include/**",
+        "/home/kuukuu/Desktop/F-Robot/src/uSerial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

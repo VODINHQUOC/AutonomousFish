@@ -1,0 +1,8 @@
+prefix=/home/kuukuu/Desktop/F-Robot/devel
+
+Name: FGuidance
+Description: Description of FGuidance
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/kuukuu/Desktop/F-Robot/devel
+
+Name: FControlSystem
+Description: Description of FControlSystem
+Version: 0.1.0
+Cflags: -I/home/kuukuu/Desktop/F-Robot/src/FControlSystem/include
+Libs: -L${prefix}/lib -lFControlSystem
+Requires: roscpp

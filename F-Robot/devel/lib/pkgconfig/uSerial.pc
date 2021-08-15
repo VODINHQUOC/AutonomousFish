@@ -1,0 +1,8 @@
+prefix=/home/kuukuu/Desktop/F-Robot/devel
+
+Name: uSerial
+Description: Description of uSerial
+Version: 0.1.0
+Cflags: -I/home/kuukuu/Desktop/F-Robot/src/uSerial/include
+Libs: -L${prefix}/lib -luSerial
+Requires: roscpp serial std_msgs

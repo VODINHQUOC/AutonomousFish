@@ -1,0 +1,2 @@
+FControlSystem:FGuidance:FNaviSystem:uSerial:xsens_ros_mti_driver
+-DCATKIN_DEVEL_PREFIX=/home/kuukuu/Desktop/F-Robot/devel -DCMAKE_INSTALL_PREFIX=/home/kuukuu/Desktop/F-Robot/install -G Unix Makefiles
